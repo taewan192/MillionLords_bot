@@ -1,0 +1,17 @@
+# Python / local environment
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+# Runtime data and logs
+Log/
+*.log
+*.bak
+*.tmp
+*.before-fix-*
+bot_token.txt
+Data/*.csv
+!Data/*.example.csv
